@@ -6,5 +6,5 @@ create RESTful API using flask as a backend and php as a frontend
 - Flask==2.0.1
 - sqlite3
 
-#optional
+# optional
 - Postman v8.9.1
